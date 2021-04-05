@@ -1,4 +1,3 @@
-import discord
 import json
 import asyncio
 import os
@@ -10,7 +9,6 @@ from itertools import cycle
 from async_timeout import timeout
 from discord.ext import commands
 from keep_alive import keep_alive
-import discord
 from pretty_help import PrettyHelp, Navigation
 from random import choice
 from discord.utils import get
@@ -18,7 +16,6 @@ from discord import FFmpegPCMAudio
 from os import system
 from termcolor import colored, cprint
 from pytz import timezone
-import discord
 import configparser
 import praw
 import urllib3
