@@ -1,0 +1,29 @@
+Go to the "Main.py" file first, then scroll down to the bottom and replace "<token>” with your disc bot's token.
+
+To receive the Discord bot's Token. Navigate to "discord.com/developers/applications" and then choose "New application."
+
+You should name the program anything you wish. Then, after you've completed it, click on it and navigate to "OAuth2."
+
+Scroll down before you find the "scopes" segment.
+
+Then pick "bot" and grant the "Administrator" access for your bot. Then copy the link above permissions and copy and paste it into your tab.
+
+After that, it will ask you which server you want to connect the bot to. So choose the server that you want it to be on. Click the "Continue" tab. 
+
+Confirm that you are human.
+
+and...
+
+Now you've added the Discord bot to your server!
+
+
+
+
+Now go to "discord.com/developers," choose your application, and then press bot. Copy your Token and paste it into the code.
+
+After that, all you have to do is activate the bot.
+
+
+
+
+This bot was created in Replit, but it can be created in any IDE.
