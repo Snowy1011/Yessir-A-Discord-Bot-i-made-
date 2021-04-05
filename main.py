@@ -18,11 +18,8 @@ from discord import FFmpegPCMAudio
 from os import system
 from termcolor import colored, cprint
 from pytz import timezone
-import youtube_dl
-import urbandictionary
 import discord
 import configparser
-import webbrowser
 import praw
 import urllib3
 import time
